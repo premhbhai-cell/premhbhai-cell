@@ -83,38 +83,9 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=premhbhai-cell&theme=onedark&no-frame=true&row=1&column=7"/>
-</p>
-
 ---
 
-## 🚀 Featured Projects
 
-🏠 **Real Estate Website**
-Modern property listing website with responsive UI.
-
-🧮 **EMI Calculator**
-Loan calculator built using JavaScript.
-
-👕 **E-commerce Clothing Store**
-Online clothing store UI with product listing and responsive layout.
-
----
-
-## 🚀 Project Cards
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=premhbhai-cell&repo=real-estate-website&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=premhbhai-cell&repo=emi-calculator&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 🧠 Developer Quote
 
@@ -140,13 +111,6 @@ Online clothing store UI with product listing and responsive layout.
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/premhbhai-cell/premhbhai-cell/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">
