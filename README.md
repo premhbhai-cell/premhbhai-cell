@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Prem</h1>
-<h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
+<!-- Animated Header Banner -->
 
 <p align="center">
-Passionate about building modern and responsive websites 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Prem%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
----
+<!-- Typing Animation -->
 
-# 👨‍💻 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Modern+Websites;Learning+React+and+Advanced+JavaScript"/>
+</p>
 
-- 🔭 Currently working on **Frontend Web Projects**
-- 🌱 Learning **Advanced JavaScript & React**
-- 💡 Interested in **UI/UX Design**
-- 🎯 Goal: **Become a Full Stack Developer**
-- ⚡ Fun fact: I love designing clean UI
+<h3 align="center">Passionate about building modern and responsive websites 🚀</h3>
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **Frontend Web Projects**
+* 🌱 Learning **Advanced JavaScript & React**
+* 💡 Interested in **UI/UX Design**
+* 🎯 Goal: **Become a Full Stack Developer**
+* ⚡ I enjoy building modern responsive websites
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,photoshop"/>
@@ -25,47 +32,111 @@ Passionate about building modern and responsive websites 🚀
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Dev Metrics Dashboard
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prembhai-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premhbhai-cell&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prembhai-cell&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=premhbhai-cell&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prembhai-cell&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=premhbhai-cell&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prembhai-cell&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premhbhai-cell&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premhbhai-cell&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90">
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=premhbhai-cell&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🏠 **Real Estate Website**
+Modern property listing website with responsive UI.
+
+🧮 **EMI Calculator**
+Loan calculator built using JavaScript.
+
+👕 **E-commerce Clothing Store**
+Online clothing store UI with product listing and responsive layout.
+
+---
+
+## 🚀 Project Cards
 
 <p align="center">
 
-<a href="https://instagram.com/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=premhbhai-cell&repo=real-estate-website&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=premhbhai-cell&repo=emi-calculator&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/premhbhai-cell">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://linkedin.com/">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -73,6 +144,24 @@ Passionate about building modern and responsive websites 🚀
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=prembhai-cell&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://raw.githubusercontent.com/premhbhai-cell/premhbhai-cell/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=premhbhai-cell&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+⭐ From Prem Jha
+</p>
+
+<!-- Footer Wave -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
