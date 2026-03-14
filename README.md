@@ -143,11 +143,11 @@ Online clothing store UI with product listing and responsive layout.
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
-https://raw.githubusercontent.com/prembhai-cell/prembhai-cell/output/github-contribution-grid-snake.svg
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/premhbhai-cell/premhbhai-cell/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=premhbhai-cell&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
