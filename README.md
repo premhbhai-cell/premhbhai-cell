@@ -7,28 +7,40 @@
 <!-- Typing Animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+CSS+JavaScript;Building+Modern+Websites;Learning+React+and+Advanced+JavaScript"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;SEO+Optimized+Websites;Responsive+Web+Design;JavaScript+%7C+React+Specialist"/>
 </p>
 
-<h3 align="center">Passionate about building modern and responsive websites 🚀</h3>
+<h3 align="center">Crafting modern, responsive & SEO-friendly high-converting web experiences 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **Frontend Web Projects**
-* 🌱 Learning **Advanced JavaScript & React**
-* 💡 Interested in **UI/UX Design**
-* 🎯 Goal: **Become a Full Stack Developer**
-* ⚡ I enjoy building modern responsive websites
+* 🔭 Working as a **Frontend Developer**
+* 💻 Specialized in **Modern Website Development**
+* 📈 Knowledge of **SEO & Website Optimization**
+* 🎨 Focused on **UI/UX & Conversion Optimization**
+* ⚡ Building **Fast, Responsive & Scalable Interfaces**
+* 🎯 Goal: **Full Stack Developer & Digital Product Builder**
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma,photoshop"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma,photoshop"/>
 </p>
+
+---
+
+## 💼 What I Do
+
+* ⚡ Build **High-Performance Landing Pages**
+* 🛒 Create **E-commerce Websites (Shopify / Custom)**
+* 🎯 Design **User-Friendly Interfaces**
+* 📱 Develop **Fully Responsive Websites**
+* 🚀 Optimize websites for **Speed & SEO**
+* 📊 Improve **Search Ranking & Performance**
 
 ---
 
@@ -72,22 +84,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90">
-</p>
-
----
-
----
-
-
-
-## 🧠 Developer Quote
+## 🧠 Developer Mindset
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -118,7 +115,7 @@
 </p>
 
 <p align="center">
-⭐ From Prem Jha
+⭐ From Prem Jha | Frontend Developer | SEO Friendly Websites
 </p>
 
 <!-- Footer Wave -->
